@@ -29,7 +29,7 @@ A shared Git repository should contain:
 
     - Be sure to explain your feature selection and feature engineering processes, and to consistently and clearly compare your models as you try new things.
 
-3. A 5-10 minute **Keynote/PowerPoint/Google Slides presentation** giving a high-level overview of your methodology and recommendations for *non-technical* stakeholders. Make sure to also add and commit this *non-technical* presentation to your repository, preferably as a PDF. Remember, this is where you explain to your *non-technical* audience the "SO WHAT", aka why they should care about all the work you did - how will this help a home owner maximize their potential profit when selling their home?
+3. A 5-10 minute **presentation** giving a high-level overview of your methodology and recommendations for *non-technical* stakeholders. Make sure to either add this presentation PDF to the repository or link to it in your README. Remember, this is where you explain to your *non-technical* audience the "SO WHAT", aka why they should care about all the work you did - how will this help a home owner maximize their potential profit when selling their home?
 
     - This is a *non-technical* presentation, and should not contain code, raw variable names, statistics jargon, or anything else that may confuse someone who hasn't been in this bootcamp! 
     - Feel free to utilize whatever tools at your disposal to create visualizations to convey your points - visuals built in Python are fine, but be sure they're polished for your presentation.
