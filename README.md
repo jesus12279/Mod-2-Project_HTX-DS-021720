@@ -1,17 +1,16 @@
 # Module 2 Project
 
-
 You've made it through the second module of this course - take a minute to celebrate your awesomeness! 
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-v2-mod1-final-project/master/awesome.gif)
+![awesome, from GIPHY](https://media.giphy.com/media/d2Z9QYzA2aidiWn6/giphy.gif)
 
 Now it's time to put that modeling practice to the test.
 
 ## The Project and The Data
 
-For this project, you'll be working with the King County House Sales dataset. We've modified the dataset to make it a bit more fun and challenging.  The dataset can be found in the file `"kc_house_data.csv"`.
+For this project, you'll be working with the King County House Sales dataset. We've modified the dataset to make it a bit more fun and challenging. The dataset can be found in the file `"kc_house_data.csv"`.
 
-The description of the column names can be found in the column_names.md file in this repository. As with most real world data sets, the column names are not perfectly described, so you'll have to do some research or use your best judgment if you have questions relating to what the data means.
+The description of the column names can be found in the `ColumnNames.md` file in this repository. As with most real world data sets, the column names are not perfectly described, so you'll have to do some research or use your best judgment if you have questions relating to what the data means.
 
 You'll clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible. 
 
@@ -30,7 +29,7 @@ A shared Git repository should contain:
 
     - Be sure to explain your feature selection and feature engineering processes, and to consistently and clearly compare your models as you try new things.
 
-3. A 5-10 minute **Keynote/PowerPoint/Google Slides presentation** giving a high-level overview of your methodology and recommendations for *non-technical* stakeholders. Make sure to also add and commit this *non-technical* presentation to your repository, preferably as a PDF. Remember - this is where you explain to your *non-technical* audience your "SO WHAT", aka why they should care about all the work you did.
+3. A 5-10 minute **Keynote/PowerPoint/Google Slides presentation** giving a high-level overview of your methodology and recommendations for *non-technical* stakeholders. Make sure to also add and commit this *non-technical* presentation to your repository, preferably as a PDF. Remember, this is where you explain to your *non-technical* audience the "SO WHAT", aka why they should care about all the work you did - how will this help a home owner maximize their potential profit when selling their home?
 
     - This is a *non-technical* presentation, and should not contain code, raw variable names, statistics jargon, or anything else that may confuse someone who hasn't been in this bootcamp! 
     - Feel free to utilize whatever tools at your disposal to create visualizations to convey your points - visuals built in Python are fine, but be sure they're polished for your presentation.
