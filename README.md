@@ -40,18 +40,18 @@ Bonus: A **Video Walkthrough** of your non-technical presentation, or of a techn
 
 For a full list of expectations for this project, check out the [**Project 2 Rubric**](https://docs.google.com/document/d/1p8P7EjqFYbCwA3X1Q6rJmi4tUww7cia7_819JZcak3w/edit#).
 
-Your team is expected to check in with the instructor team at least once to outline the project plan and approach to the problem.
+Your team is expected to check in with the instructor team **at least once** to outline the project plan and approach to the problem.
 
 ## Suggestions
 
-![battle plan, from GIPHY](https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif)
+![all going according to my plan, from GIPHY](https://media.giphy.com/media/j7ZG7IuXq4wAE/giphy.gif)
 
-- Plan out your Git repository **BEFORE** you begin your project! Avoid merge headaches, work in different Jupyter notebooks, and Git commit whenever you make changes - aiming for at least twice a day! Get used to pulling/pushing in order to keep each other up to date.
+- Plan out your Git repository **BEFORE** you begin your project! Avoid merge headaches, use your branches, work in different Jupyter notebooks, and Git commit whenever you make changes - aiming for at least twice a day! Get used to pulling/pushing in order to keep each other up to date.
 
 - Plan out how you'll be cleaning your data - and make sure you're justifying each step you take in your documentation (code comments, markdown cells or the README)
 
     - Work together on this, since otherwise you'll both probably be doing the same things but separately!
 
-- Plan out some ways to iteratively approach this problem and how you'll be doing the analysis/model improvements before you start coding. This is the place you can likely split up the work, but be sure to keep checking in with your partner - they likely are doing cool things that you may want to use!
+- Plan out some ways to iteratively approach this problem and how you'll be doing the analysis/model improvements **BEFORE** you start coding. This is the place you can likely split up the work, but be sure to keep checking in with your partner - they likely are doing cool things that you may want to use!
 
 - Save time at the end to clean up your notebook and repository, create and practice your presentation, and otherwise cross your t's/dot your i's.
