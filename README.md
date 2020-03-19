@@ -2,7 +2,7 @@
 
 You've made it through the second module of this course - take a minute to celebrate your awesomeness! 
 
-![awesome, from GIPHY](https://media.giphy.com/media/d2Z9QYzA2aidiWn6/giphy.gif)
+![adventure time gif, from tenor](https://media1.tenor.com/images/0a57f932eac5e1945501766c373ac172/tenor.gif)
 
 Now it's time to put that modeling practice to the test.
 
