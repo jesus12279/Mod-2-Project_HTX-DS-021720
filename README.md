@@ -40,6 +40,12 @@ For a full list of expectations for this project, check out the [**Project 2 Rub
 
 Your team is expected to check in with the instructor team **at least once** to outline the project plan and approach to the problem.
 
+## Groups
+
+- Group 1: Tim, Jesus, Lenaya
+- Group 2: Takehiro, Boi, Ezgi
+- Group 3: Abzal, Anh, Mark
+
 ## Suggestions
 
 ![all going according to my plan, from GIPHY](https://media.giphy.com/media/j7ZG7IuXq4wAE/giphy.gif)
