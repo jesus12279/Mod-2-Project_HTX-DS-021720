@@ -36,7 +36,7 @@ A shared Git repository should contain:
 
 **Bonus:** A **Video Walkthrough** of your non-technical presentation, or of a technical rundown of your project. Some common video recording tools used are Zoom, Quicktime, and Nimbus. After you record your presentation, publish it on a service like YouTube or Google Drive.
 
-For a full list of expectations for this project, check out the [**Project 2 Rubric**](https://docs.google.com/document/d/1p8P7EjqFYbCwA3X1Q6rJmi4tUww7cia7_819JZcak3w/edit#).
+For a full list of expectations for this project, check out the [**Project 2 Rubric**](https://docs.google.com/spreadsheets/d/1bk168JuN57-1zN9RPxdbWCspPJ0s_OLRFzjYCSdJ5HI/edit?usp=sharing).
 
 Your team is expected to check in with the instructor team **at least once** to outline the project plan and approach to the problem.
 
